@@ -36,9 +36,10 @@ O tipo de ataque varia conforme o tipo do herói:
 ```bash
 O ninja atacou usando shuriken
 ```
-## 🔗 Acesse o repositório do projeto
+## 📥 Clonando o projeto "Savenago - ClassesDeHeroi"
 
-Você pode visualizar e clonar este projeto diretamente pelo GitHub:
+Para clonar apenas este projeto específico, você pode usar o seguinte comando:
 
-[👉 Repositório Savenago - ClassesDeHeroi](https://github.com/ItsRAYKA/DIO-Projetos/tree/main/Savenago%20-%20ClassesDeHeroi)
+```bash
+git clone https://github.com/ItsRAYKA/DIO-Projetos.git
 
