@@ -12,9 +12,7 @@ Cada projeto ou desafio estará em sua própria pasta, contendo:
 * Um arquivo  `README.md` específico para aquele projeto, com detalhes sobre seu objetivo, tecnologias utilizadas e como executá-lo (se aplicável).
 ---
 
-## BootCamp 👩🏻‍💻
-
-**Savegnago - Lógica de programação** 
+## 👩🏻‍💻 Savegnago - Lógica de programação
 
 Este desafio/exercício foi desenvolvido como parte do bootcamp da **Digital Innovation One (DIO)**.  
 O objetivo é aplicar os conceitos introdutórios de programação em JavaScript — como variáveis, operadores, estruturas condicionais e saída de dados — por meio da criação de um programa que classifica o nível de um herói de acordo com sua experiência (XP).
@@ -23,7 +21,7 @@ Acesse aqui: [🦸 Classificador de Nível de Herói](https://github.com/Rayluna
 
 <br> 
 
-**🧠 Savegnago – Funções**
+### 🧠 Savegnago – Funções
 
 Este desafio/exercício foi desenvolvido com o objetivo de aplicar conceitos fundamentais de JavaScript, como:
 
@@ -33,6 +31,17 @@ Este desafio/exercício foi desenvolvido com o objetivo de aplicar conceitos fun
 
 A proposta consiste em calcular o saldo de vitórias de um jogador e classificá-lo em um nível ranqueado com base nesse saldo. O exercício reforça a importância da separação de responsabilidades entre funções e da reutilização de valores por meio de variáveis.
 
+<br>
+
 🔗 [Acesse o projeto Savegnago – Funções](https://github.com/ItsRAYKA/DIO-Projetos/tree/main/Savegnago%20-%20Fun%C3%A7%C3%B5es)
+
+### 🧙‍♂️ Desafio: Classes de Herói
+
+Este projeto foi desenvolvido como parte dos desafios da DIO, com o objetivo de praticar o uso de **classes e objetos.**
+
+O desafio consiste em criar uma classe que represente um herói de aventura, com propriedades como nome, idade e tipo (guerreiro, mago, monge ou ninja), além de um método `atacar()` que exibe uma mensagem personalizada conforme o tipo do herói.
+
+🔗 Acesse o repositório completo aqui:  
+[Savenago - ClassesDeHeroi](https://github.com/ItsRAYKA/DIO-Projetos/tree/main/Savenago%20-%20ClassesDeHeroi)
 
  
